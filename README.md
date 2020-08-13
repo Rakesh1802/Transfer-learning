@@ -11,7 +11,11 @@ In India there are only 6 doctors for every 10000 people.There is huge gap that 
 You can download the Pneumonia dataset from(kaggle) [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).Pneumonia dataset is organized in to 3 folders(**train,val,test**).Each folder consists of two sub-folders namely **NORMAL** and **PNEUMONIA** .Threre are a total of **5863** images(JPEG).All these images were graded by two expert physicians before being cleared for training the AI system.
 
 ## Technologies used:
-[![keras0](https://user-images.githubusercontent.com/53150840/90161442-bfcbab80-ddb0-11ea-819c-2ca3742a57eb.png)](https://keras.io) and [TensorFlow](https://www.tensorflow.org/)
+[![keras0](https://user-images.githubusercontent.com/53150840/90161442-bfcbab80-ddb0-11ea-819c-2ca3742a57eb.png)](https://keras.io) [![tf](https://user-images.githubusercontent.com/53150840/90162878-ed195900-ddb2-11ea-910a-c917afbf40cc.jpg)](https://www.tensorflow.org/) [![py](https://user-images.githubusercontent.com/53150840/90163749-21d9e000-ddb4-11ea-8eff-e6645a8ba86b.jpg)](https://www.python.org/)
+
+## License
+[![apache](https://user-images.githubusercontent.com/53150840/90163723-1a1a3b80-ddb4-11ea-830a-333e94cf7108.png)](https://www.apache.org/licenses/LICENSE-2.0)
+
 
 ## Credits
 A huge shoutout to [kaggle](https://www.kaggle.com/) for the amazing dataset.
