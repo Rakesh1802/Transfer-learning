@@ -18,4 +18,8 @@ You can download the Pneumonia dataset from(kaggle) [here](https://www.kaggle.co
 
 
 ## Credits
-A huge shoutout to [kaggle](https://www.kaggle.com/) for the amazing dataset.
+A huge shoutout to the contributers of the dataset **Daniel Kermany, Kang Zhang, Michael Goldbaum**
+
+Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
+
+license:[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
